@@ -16,17 +16,14 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
-<br></br>
 <p align="center">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"/>
 </p>
-<br></br>
 <p align="center">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
 </p>
-<br></br>
 <p align="center">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
