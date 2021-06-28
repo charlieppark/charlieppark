@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on aegis_server
 - 🌱 I’m currently learning ML
-- 📫 How to reach me: 32181928@dankook.ac.kr
+- 📫 How to reach me: [email] 32181928@dankook.ac.kr
 
 <br></br>
 
