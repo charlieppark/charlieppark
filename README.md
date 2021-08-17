@@ -31,7 +31,7 @@
 </p>
 <br></br>
 
-- 🔭 I’m currently working on aegis_server
+- 🔭 I’m currently researching spam filtering, signed network
 - 🌱 I’m currently learning ML
 - 📫 How to reach me: [email] 32181928@dankook.ac.kr
 
