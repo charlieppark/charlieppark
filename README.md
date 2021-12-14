@@ -9,30 +9,30 @@
 <h3 align="center">🔧 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>&nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>&nbsp 
 </p>
 <br></br>
 
-- 🔭 I’m currently researching spam filtering, signed network
-- 🌱 I’m currently learning ML
+- 🔭 I’m currently researching **spam filtering**, **signed network**
+- 🌱 I’m currently learning **ML**, **Web Backend**
+- ❤️ I'm currently interested in **Apache Spark**, **Apache Kafka**, **Redis**, **Tensorflow Kernel**, **PintOS**
 - 📫 How to reach me: [email] 32181928@dankook.ac.kr
 
 <br></br>
