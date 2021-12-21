@@ -37,7 +37,7 @@
 
 - 🔭 I’m currently researching **spam filtering**, **signed network**
 - 🌱 I’m currently learning **ML**, **Web Backend**
-- ❤️ I'm currently interested in **Apache Spark**, **Apache Kafka**, **Redis**, **Tensorflow Kernel**, **PintOS**
+- ❤️ I'm currently interested in **Apache Spark**, **Apache Kafka**, **Redis**, **Tensorflow Kernel**
 - 📫 How to reach me: [email] 32181928@dankook.ac.kr
 
 <br></br>
