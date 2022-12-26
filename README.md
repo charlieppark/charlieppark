@@ -46,6 +46,7 @@
 - 🌱 I’m currently learning **ML**, **Web Backend**
 - ❤️ I'm currently interested in **Apache Spark**, **Apache Kafka**, **Redis**, **Tensorflow Kernel**
 - 📫 How to reach me: [email] chanho.park@dankook.ac.kr
+- 💭 Devlog : https://www.charlieppark.kr/
 
 <br></br>
 
