@@ -8,15 +8,17 @@
 
 <h3 align="center">🔧 Tech Stack</h3>
 
+<h4 align="center">Language</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>&nbsp
-</p>
+
+<h4 align="center">ML Library / Framework</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
@@ -25,10 +27,15 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>&nbsp 
 </p>
+
+<h4 align="center">Backend Framework</h4>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>&nbsp
 </p>
+
+<h4 align="center">IDEs</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp
@@ -40,11 +47,18 @@
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
 
+<h4 align="center">etc</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>&nbsp 
+</p>
+
 <br></br>
 
-- 🔭 I’m currently researching **spam filtering**, **signed network**
-- 🌱 I’m currently learning **ML**, **Web Backend**
-- ❤️ I'm currently interested in **Apache Spark**, **Apache Kafka**, **Redis**, **Tensorflow Kernel**
+- 🔭 I’m currently researching **Graph Convolutional Network**, **Signed Network**
+- 🌱 I’m currently learning **Diffusion Models**, **Computer Graphics**
+- ❤️ I'm currently interested in **Generative Models**, **Multimodal Learning**, **Meta Learning**
 - 📫 How to reach me: [email] chanho.park@dankook.ac.kr
 - 💭 Devlog : https://www.charlieppark.kr/
 
