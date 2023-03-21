@@ -57,8 +57,8 @@
 <br></br>
 
 - 🔭 I’m currently researching **Graph Convolutional Network**, **Signed Network**
-- 🌱 I’m currently learning **Diffusion Models**, **Computer Graphics**
-- ❤️ I'm currently interested in **Generative Models**, **Multimodal Learning**, **Meta Learning**
+- 🌱 I’m currently learning **Computer Graphics**, **Reinforcement Learning**
+- ❤️ I'm currently interested in **Computer Vision**, **Computer Graphics**, **3d shape**
 - 📫 How to reach me: [email] chanho.park@dankook.ac.kr
 - 💭 Devlog : https://www.charlieppark.kr/
 
