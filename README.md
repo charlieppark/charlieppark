@@ -60,7 +60,7 @@
 - 🌱 I’m currently learning **Computer Graphics**, **Reinforcement Learning**
 - ❤️ I'm currently interested in **Computer Vision**, **Computer Graphics**, **3d shape**
 - 📫 How to reach me: [email] chanho.park@dankook.ac.kr
-- 💭 Devlog : https://www.charlieppark.kr/
+- 💭 Devlog : https://charlieppark.kr/
 
 <br></br>
 
