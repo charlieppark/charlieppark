@@ -15,6 +15,8 @@
 <b>BS expected in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)</b>
 
 <h4>Research Interest</h4>
+
+[![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=2ea44f)](https://)
 [![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)](https://)</a>&nbsp
 [![Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)](https://)</a>&nbsp
 [![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)](https://)</a>&nbsp
