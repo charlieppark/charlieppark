@@ -64,10 +64,7 @@
 - 📫 How to reach me: [email] chanho.park@dankook.ac.kr
 - 💭 Devlog : https://charlieppark.kr/
 
-
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=charelieppark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=charlieppark)](https://git.io/streak-stats)
 
 <br></br>
 
