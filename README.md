@@ -48,7 +48,7 @@
 
 <br></br>
   
-<h3 align="center">🔧 Tech Stack</h3>
+<h3>🔧 Tech Stack</h3>
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   
@@ -56,7 +56,7 @@
   <li>Able to implement models based on papers (ex. Diffusion Models)</li>
 </ul>
 
-<br></br>
+&nbsp;
   
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 
@@ -64,7 +64,7 @@
   <li>Able to implement neural network and backpropagation using numpy</li>
 </ul>
 
-<br></br>
+&nbsp;
   
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) / ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
@@ -72,9 +72,9 @@
   <li>Able to create a full-stack prototype application / service</li>
 </ul>
 
-<br></br>
+&nbsp;
   
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 <ul>
   <li>Preprocess large network using PageRank, signed network triads, etc. Class projects (Computer Architecture : MIPS simulator, Cache / Operating Systems : Shell, Multi-threading, Scheduler, Virtual Memory, File System, etc.)</li>
