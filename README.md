@@ -25,6 +25,7 @@
 <h4>Research Experience/h4>>
   
 <b>Undergraduate Intern (Dankook University C&I Lab. Advisor Prof. Kyu-haeng Lee. Mar. 2021 ~ Jun. 2023)</b>
+  
 - Spammer node classification on large twitter graph using GCN with signed network analysis
 - [Weekly Paper Reading Seminar (2023 Jan ~ Mar)](https://github.com/charlieppark/seminar_presentations)
 
