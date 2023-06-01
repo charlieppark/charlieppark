@@ -8,7 +8,7 @@
 
 <h3>Chanho Park</h3>
 
-- 📫 How to reach me: [email] chanho.park@dankook.ac.kr
+- 📫 How to reach me: chanho.park@dankook.ac.kr
 - 💭 Devlog : https://charlieppark.kr/
 
 <h4>Education</h4>
