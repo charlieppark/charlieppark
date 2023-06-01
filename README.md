@@ -12,19 +12,19 @@
 - 💭 Devlog : https://charlieppark.kr/
 
 <h4>Education</h4>
-**BS expected in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)**
+<b>BS expected in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)</b>
 
 <h4>Research Interest</h4>
-[Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)
-[Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)
-[Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)
-[Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)
+![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)
+![Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)
+![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)
+![Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)
 
 <h4>Research Experience/h4>>
-**Undergraduate Intern (Dankook University C&I Lab. Advisor Prof. Kyu-haeng Lee. Mar. 2021 ~ Jun. 2023)**
+<b>Undergraduate Intern (Dankook University C&I Lab. Advisor Prof. Kyu-haeng Lee. Mar. 2021 ~ Jun. 2023)</b>
 - Spammer node classification on large twitter graph using GCN with signed network analysis
 - [Weekly Paper Reading Seminar (2023 Jan ~ Mar)](https://github.com/charlieppark/seminar_presentations)
-**Undergraduate Intern (KAIST Geometric AI Group. Advisor Prof. Minhyuk Sung. Jun. 2023 ~ Aug. 2023)**
+<b>Undergraduate Intern (KAIST Geometric AI Group. Advisor Prof. Minhyuk Sung. Jun. 2023 ~ Aug. 2023)</b>
 
 <h4>Honors & Awards/h4>>
 - Academic Excellence for all semesters. Full-funded Scholarship for all semesters.
