@@ -36,20 +36,23 @@
   <ul>
     <li>Advisor Professor : Kyu-haeng Lee</li>
     <li>Mar. 2021 ~ Jun. 2023</li>
-    <li>Topics</li>
+    <li>Topics
     <ul>
       <li>Spammer node classification on large twitter graph using GCN with signed network analysis</li>
       <li>Weekly Paper Reading Seminar (2023 Jan ~ Mar)] (https://github.com/charlieppark/seminar_presentations)</li>
     </ui>
+    </li>
   </ul>
+  
   <li><b>Undergraduate Intern in KAIST Geometric AI Group</b></li>
   <ul>
     <li>Advisor Professor : Minhyuk Sung</li>
     <li>Jun. 2023 ~ Aug. 2023</li>
-    <li>Topics</li>
+    <li>Topics
     <ul>
       <li>To be added</li>
     </ui>
+    </li>
   </ul>
 </ul>
 
