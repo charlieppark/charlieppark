@@ -64,8 +64,10 @@
 - 📫 How to reach me: [email] chanho.park@dankook.ac.kr
 - 💭 Devlog : https://charlieppark.kr/
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=charlieppark)](https://git.io/streak-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=charlieppark&theme=material-palenight)](https://git.io/streak-stats)
 <br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlieppark&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
