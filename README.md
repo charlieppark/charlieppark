@@ -94,7 +94,8 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 : Preprocess large network using PageRank, signed network triads, etc. Class projects (Computer Architecture : MIPS simulator, Cache / Operating Systems : Shell, Multi-threading, Scheduler, Virtual Memory, File System, etc.)
-&nbsp;
+
+&nbsp; 
 : Graphics programming with IMGUI, DirectX11 
   
 &nbsp;
