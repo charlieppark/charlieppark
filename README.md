@@ -64,12 +64,12 @@
 - 📫 How to reach me: [email] chanho.park@dankook.ac.kr
 - 💭 Devlog : https://charlieppark.kr/
 
-<br></br><br></br>
+<br></br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br></br><br></br>
+<br></br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=charlieppark&theme=material-palenight)](https://git.io/streak-stats)
 <br></br>
@@ -91,6 +91,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=footer)
 
+<br></br>
 
 <!--START_SECTION:activity-->
 
