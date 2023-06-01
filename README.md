@@ -22,7 +22,7 @@
 [![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)](https://)<br></br>
 [![Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)](https://)<br></br>
 
-<h4>Research Experience/h4>
+<h4>Research Experience</h4>
   
 <b>Undergraduate Intern (Dankook University C&I Lab. Advisor Prof. Kyu-haeng Lee. Mar. 2021 ~ Jun. 2023)</b>
   
@@ -31,7 +31,7 @@
 
 <b>Undergraduate Intern (KAIST Geometric AI Group. Advisor Prof. Minhyuk Sung. Jun. 2023 ~ Aug. 2023)</b>
 
-<h4>Honors & Awards/h4>
+<h4>Honors & Awards</h4>
   
 - Academic Excellence for all semesters. Full-funded Scholarship for all semesters.
 - Won 2nd prize in <2022 Solar Electromagnetic Storm prediction AI contest> hosted by Korean Space Weather Center. Predicted solar storm using XGBoost, CNN, LSTM and stacking ensemble.
