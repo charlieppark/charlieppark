@@ -45,9 +45,7 @@
   </ul>
   </li>
 </ul>
-
 &nbsp;
-
 <ul>
   <li><b>Undergraduate Intern in KAIST Geometric AI Group</b>
   <ul>
