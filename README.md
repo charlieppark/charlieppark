@@ -77,7 +77,9 @@
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 : Able to implement models based on papers (ex. Diffusion Models)</li>
-&nbsp;  
+  
+&nbsp;
+
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <ul>
