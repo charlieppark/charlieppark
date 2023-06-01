@@ -15,10 +15,10 @@
 <b>BS expected in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)</b>
 
 <h4>Research Interest</h4>
-![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)
-![Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)
-![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)
-![Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)
+[![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)](https://)</a>&nbsp
+[![Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)](https://)</a>&nbsp
+[![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)](https://)</a>&nbsp
+[![Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)](https://)</a>&nbsp
 
 <h4>Research Experience/h4>>
 <b>Undergraduate Intern (Dankook University C&I Lab. Advisor Prof. Kyu-haeng Lee. Mar. 2021 ~ Jun. 2023)</b>
