@@ -77,22 +77,20 @@
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 : Able to implement models based on papers (ex. Diffusion Models)
-  
 &nbsp;
 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 : Able to implement neural network and backpropagation using numpy
-
 &nbsp;
   
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) / ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
 : Able to create a full-stack prototype application / service
 &nbsp;
+
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 : Preprocess large network using PageRank, signed network triads, etc. Class projects (Computer Architecture : MIPS simulator, Cache / Operating Systems : Shell, Multi-threading, Scheduler, Virtual Memory, File System, : : Graphics programming with IMGUI, DirectX11 
-
 &nbsp;
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
