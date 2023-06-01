@@ -32,12 +32,25 @@
 <h4>Research Experience</h4>
 
 <ul>
-  <li><b>Undergraduate Intern (Dankook University C&I Lab. Advisor Prof. Kyu-haeng Lee. Mar. 2021 ~ Jun. 2023)</b></li>
+  <li><b>Undergraduate Intern in Dankook University C&I Lab</b></li>
   <ul>
-    <li>Spammer node classification on large twitter graph using GCN with signed network analysis</li>
-    <li>[Weekly Paper Reading Seminar (2023 Jan ~ Mar)](https://github.com/charlieppark/seminar_presentations)</li>
+    <li>Advisor Professor : Kyu-haeng Lee</li>
+    <li>Mar. 2021 ~ Jun. 2023</li>
+    <li>Topics</li>
+    <ul>
+      <li>Spammer node classification on large twitter graph using GCN with signed network analysis</li>
+      <li>Weekly Paper Reading Seminar (2023 Jan ~ Mar)] (https://github.com/charlieppark/seminar_presentations)</li>
+    </ui>
   </ul>
-  <li><b>Undergraduate Intern (KAIST Geometric AI Group. Advisor Prof. Minhyuk Sung. Jun. 2023 ~ Aug. 2023)</b></li>
+  <li><b>Undergraduate Intern in KAIST Geometric AI Group</b></li>
+  <ul>
+    <li>Advisor Professor : Minhyuk Sung</li>
+    <li>Jun. 2023 ~ Aug. 2023</li>
+    <li>Topics</li>
+    <ul>
+      <li>To be added</li>
+    </ui>
+  </ul>
 </ul>
 
 &nbsp;
