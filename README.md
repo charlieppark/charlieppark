@@ -15,12 +15,16 @@
 
 <b>BS expected in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)</b>
 
+<br></br>
+
 <h4>Research Interest</h4>
 
 [![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)](https://)<br></br>
 [![Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)](https://)<br></br>
 [![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)](https://)<br></br>
 [![Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)](https://)<br></br>
+
+<br></br>
 
 <h4>Research Experience</h4>
   
@@ -31,6 +35,8 @@
 
 <b>Undergraduate Intern (KAIST Geometric AI Group. Advisor Prof. Minhyuk Sung. Jun. 2023 ~ Aug. 2023)</b>
 
+<br></br>
+
 <h4>Honors & Awards</h4>
   
 - Academic Excellence for all semesters. Full-funded Scholarship for all semesters.
@@ -40,6 +46,8 @@
 - Won a bronze prize in <College of SW convergenge X College of Business & Economics Hackathon : 경소톤> as a web backend developer.
 - Advanced to finals in <9th SW secure coding contest> of KISA as a backend developer
 
+<br></br>
+  
 <h3 align="center">🔧 Tech Stack</h3>
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp
