@@ -40,7 +40,7 @@
     <ul>
       <li>Spammer node classification on large twitter graph using GCN with signed network analysis</li>
       <li>Weekly Paper Reading Seminar (2023 Jan ~ Mar)] (https://github.com/charlieppark/seminar_presentations)</li>
-    </ui>
+    </ul>
     </li>
   </ul>
   </li>
@@ -52,7 +52,7 @@
     <li>Topics
     <ul>
       <li>To be added</li>
-    </ui>
+    </ul>
     </li>
   </ul>
   </li>
