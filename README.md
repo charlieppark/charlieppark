@@ -32,7 +32,7 @@
 <h4>Research Experience</h4>
 
 <ul>
-  <li><b>Undergraduate Intern in Dankook University C&I Lab</b></li>
+  <li><b>Undergraduate Intern in Dankook University C&I Lab</b>
   <ul>
     <li>Advisor Professor : Kyu-haeng Lee</li>
     <li>Mar. 2021 ~ Jun. 2023</li>
@@ -43,8 +43,9 @@
     </ui>
     </li>
   </ul>
+  </li>
   
-  <li><b>Undergraduate Intern in KAIST Geometric AI Group</b></li>
+  <li><b>Undergraduate Intern in KAIST Geometric AI Group</b>
   <ul>
     <li>Advisor Professor : Minhyuk Sung</li>
     <li>Jun. 2023 ~ Aug. 2023</li>
@@ -54,6 +55,7 @@
     </ui>
     </li>
   </ul>
+  </li>
 </ul>
 
 &nbsp;
