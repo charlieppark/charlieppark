@@ -98,6 +98,12 @@
 <br></br>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/Receipt-Information-Parser/Frontend/pull/23) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
+2. 💪 Opened PR [#23](https://github.com/Receipt-Information-Parser/Frontend/pull/23) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
+3. 🎉 Merged PR [#20](https://github.com/Receipt-Information-Parser/Frontend/pull/20) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
+4. 💪 Opened PR [#20](https://github.com/Receipt-Information-Parser/Frontend/pull/20) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
+5. 🎉 Merged PR [#19](https://github.com/Receipt-Information-Parser/Frontend/pull/19) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
+<!--END_SECTION:activity-->
 
 
 <!--
