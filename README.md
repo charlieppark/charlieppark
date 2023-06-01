@@ -76,32 +76,22 @@
 <h3>🔧 Tech Stack</h3>
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-: Able to implement models based on papers (ex. Diffusion Models)</li>
+: Able to implement models based on papers (ex. Diffusion Models)
   
 &nbsp;
 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<ul>
-  <li>Able to implement neural network and backpropagation using numpy</li>
-</ul>
+: Able to implement neural network and backpropagation using numpy
 
 &nbsp;
   
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) / ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
-<ul>
-  <li>Able to create a full-stack prototype application / service</li>
-</ul>
-
+: Able to create a full-stack prototype application / service
 &nbsp;
-  
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-<ul>
-  <li>Preprocess large network using PageRank, signed network triads, etc. Class projects (Computer Architecture : MIPS simulator, Cache / Operating Systems : Shell, Multi-threading, Scheduler, Virtual Memory, File System, etc.)</li>
-  <li>Graphics programming with IMGUI, DirectX11  </li>
-</ul>
+: Preprocess large network using PageRank, signed network triads, etc. Class projects (Computer Architecture : MIPS simulator, Cache / Operating Systems : Shell, Multi-threading, Scheduler, Virtual Memory, File System, : : Graphics programming with IMGUI, DirectX11 
 
 &nbsp;
 
