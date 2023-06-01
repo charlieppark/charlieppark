@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=charlieppark&fontSize=50&animation=blink)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcharlieppark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br></br>
+&nbsp;
 ![Profile views](https://gpvc.arturio.dev/charlieppark)
 
 <p>🇰🇷</p>
@@ -19,10 +19,10 @@
 
 <h4>Research Interest</h4>
 
-[![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)](https://)<br></br>
-[![Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)](https://)<br></br>
-[![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)](https://)<br></br>
-[![Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)](https://)<br></br>
+[![Research - Computer Vision](https://img.shields.io/static/v1?label=Research&message=Computer+Vision&color=f6ddcb)](https://)&nbsp;
+[![Research - Computer Graphics](https://img.shields.io/static/v1?label=Research&message=Computer+Graphics&color=f6ddcb)](https://)&nbsp;
+[![Research - Diffusion Models](https://img.shields.io/static/v1?label=Research&message=Diffusion+Models&color=f6ddcb)](https://)&nbsp;
+[![Research - 3D Shapes](https://img.shields.io/static/v1?label=Research&message=3D+Shapes&color=f6ddcb)](https://)&nbsp;
 
 &nbsp;
 
@@ -81,32 +81,33 @@
   <li>Graphics programming with IMGUI, DirectX11  </li>
 </ul>
 
-<br></br>
+&nbsp;
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<br></br>
+&nbsp;
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br></br>
+&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=charlieppark&theme=material-palenight)](https://git.io/streak-stats)
-<br></br>
+  
+&nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlieppark&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-<br></br>
+&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlieppark&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-<br></br>
+&nbsp;
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanho0309)](https://solved.ac/chanho0309)
 
-<br></br>
+&nbsp;
 
 #### Badges
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -129,11 +130,11 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 
-<br></br>
+&nbsp;
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=footer)
 
-<br></br>
+&nbsp;
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#23](https://github.com/Receipt-Information-Parser/Frontend/pull/23) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
