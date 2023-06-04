@@ -147,11 +147,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 &nbsp;
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Receipt-Information-Parser/Backend/pull/19) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
-2. 💪 Opened PR [#19](https://github.com/Receipt-Information-Parser/Backend/pull/19) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
-3. 🔒 Closed issue [#5](https://github.com/Receipt-Information-Parser/Backend/issues/5) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
-4. 🎉 Merged PR [#18](https://github.com/Receipt-Information-Parser/Backend/pull/18) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
-5. 💪 Opened PR [#18](https://github.com/Receipt-Information-Parser/Backend/pull/18) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+1. 🎉 Merged PR [#20](https://github.com/Receipt-Information-Parser/Backend/pull/20) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+2. 💪 Opened PR [#20](https://github.com/Receipt-Information-Parser/Backend/pull/20) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+3. 🎉 Merged PR [#19](https://github.com/Receipt-Information-Parser/Backend/pull/19) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+4. 💪 Opened PR [#19](https://github.com/Receipt-Information-Parser/Backend/pull/19) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+5. 🔒 Closed issue [#5](https://github.com/Receipt-Information-Parser/Backend/issues/5) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
 <!--END_SECTION:activity-->
 
 
