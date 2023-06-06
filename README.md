@@ -125,15 +125,7 @@ Groovy       2 mins          ░░░░░░░░░░░░░░░░░
 
 &nbsp;
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=charlieppark&theme=material-palenight)](https://git.io/streak-stats)
-  
-&nbsp;
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlieppark&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-&nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlieppark&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
