@@ -45,7 +45,7 @@
 </ul>
 &nbsp;
 <ul>
-  <li><b>Undergraduate Intern in KAIST Geometric AI Group</b>
+  <li><b>Undergraduate Intern in KAIST Geometric AI Lab</b>
   <ul>
     <li>Advisor Professor : Minhyuk Sung</li>
     <li>Jun. 2023 ~ Aug. 2023</li>
