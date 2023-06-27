@@ -139,11 +139,11 @@ JavaScript             12 mins         ▒░░░░░░░░░░░░�
 &nbsp;
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Receipt-Information-Parser/Backend/pull/23) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
-2. 💪 Opened PR [#23](https://github.com/Receipt-Information-Parser/Backend/pull/23) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
-3. 🎉 Merged PR [#32](https://github.com/Receipt-Information-Parser/Frontend/pull/32) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
-4. 💪 Opened PR [#32](https://github.com/Receipt-Information-Parser/Frontend/pull/32) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
-5. 🎉 Merged PR [#22](https://github.com/Receipt-Information-Parser/Backend/pull/22) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+1. 💪 Opened PR [#19](https://github.com/krrish94/chamferdist/pull/19) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+2. 🎉 Merged PR [#23](https://github.com/Receipt-Information-Parser/Backend/pull/23) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+3. 💪 Opened PR [#23](https://github.com/Receipt-Information-Parser/Backend/pull/23) in [Receipt-Information-Parser/Backend](https://github.com/Receipt-Information-Parser/Backend)
+4. 🎉 Merged PR [#32](https://github.com/Receipt-Information-Parser/Frontend/pull/32) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
+5. 💪 Opened PR [#32](https://github.com/Receipt-Information-Parser/Frontend/pull/32) in [Receipt-Information-Parser/Frontend](https://github.com/Receipt-Information-Parser/Frontend)
 <!--END_SECTION:activity-->
 
 
