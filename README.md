@@ -140,7 +140,7 @@ SSH Config   0 secs          ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/KAIST-Geometric-AI-Group/Tutorial_2/pull/1) in [KAIST-Geometric-AI-Group/Tutorial_2](https://github.com/KAIST-Geometric-AI-Group/Tutorial_2)
 2. 🔒 Closed issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
-3. 🗣 Commented on [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+3. 🗣 Commented on [#20](https://github.com/krrish94/chamferdist/issues/20#issuecomment-1622769826) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
 4. ❗ Opened issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
 5. 💪 Opened PR [#19](https://github.com/krrish94/chamferdist/pull/19) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
 <!--END_SECTION:activity-->
