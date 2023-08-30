@@ -139,11 +139,11 @@ reStructuredText   0 secs          ░░░░░░░░░░░░░░░
 &nbsp;
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/asztr/Neural-BRDF/issues/2) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
-2. 🔒 Closed issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
-3. 🗣 Commented on [#20](https://github.com/krrish94/chamferdist/issues/20#issuecomment-1622769826) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
-4. ❗ Opened issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
-5. 💪 Opened PR [#19](https://github.com/krrish94/chamferdist/pull/19) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+1. 🗣 Commented on [#2](https://github.com/asztr/Neural-BRDF/issues/2#issuecomment-1698465862) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
+2. ❗ Opened issue [#2](https://github.com/asztr/Neural-BRDF/issues/2) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
+3. 🔒 Closed issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+4. 🗣 Commented on [#20](https://github.com/krrish94/chamferdist/issues/20#issuecomment-1622769826) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+5. ❗ Opened issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
 <!--END_SECTION:activity-->
 
 
