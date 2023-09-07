@@ -134,11 +134,11 @@ GDScript   0 secs          ░░░░░░░░░░░░░░░░░�
 &nbsp;
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/asztr/Neural-BRDF/issues/2#issuecomment-1698465862) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
-2. ❗ Opened issue [#2](https://github.com/asztr/Neural-BRDF/issues/2) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
-3. 🔒 Closed issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
-4. 🗣 Commented on [#20](https://github.com/krrish94/chamferdist/issues/20#issuecomment-1622769826) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
-5. ❗ Opened issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+1. 🗣 Commented on [#179](https://github.com/mitsuba-renderer/drjit/issues/179#issuecomment-1710114063) in [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit)
+2. 🗣 Commented on [#2](https://github.com/asztr/Neural-BRDF/issues/2#issuecomment-1698465862) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
+3. ❗ Opened issue [#2](https://github.com/asztr/Neural-BRDF/issues/2) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
+4. 🔒 Closed issue [#20](https://github.com/krrish94/chamferdist/issues/20) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+5. 🗣 Commented on [#20](https://github.com/krrish94/chamferdist/issues/20#issuecomment-1622769826) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
 <!--END_SECTION:activity-->
 
 
