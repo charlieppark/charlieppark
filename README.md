@@ -105,12 +105,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 03 October 2023
+From: 04 September 2023 - To: 04 October 2023
 
-Total Time: 10 mins
+Total Time: 1 min
 
-Python   8 mins          █████████████████████▒░░░   85.06 %
-C++      1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+C++   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
