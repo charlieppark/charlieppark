@@ -11,7 +11,7 @@
 
 <h4>Education</h4>
 
-<b>BS expected in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)</b>
+<b>BS in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)</b>
 
 &nbsp;
 
