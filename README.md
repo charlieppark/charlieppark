@@ -130,11 +130,11 @@ No activity tracked
 &nbsp;
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/63days/63days.github.io/pull/2) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
-2. 💪 Opened PR [#1](https://github.com/63days/63days.github.io/pull/1) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
-3. 🗣 Commented on [#179](https://github.com/mitsuba-renderer/drjit/issues/179#issuecomment-1710114063) in [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit)
-4. 🗣 Commented on [#2](https://github.com/asztr/Neural-BRDF/issues/2#issuecomment-1698465862) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
-5. 🗣 Commented on [#20](https://github.com/krrish94/chamferdist/issues/20#issuecomment-1622769826) in [krrish94/chamferdist](https://github.com/krrish94/chamferdist)
+1. 💪 Opened PR [#3](https://github.com/63days/63days.github.io/pull/3) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
+2. 💪 Opened PR [#2](https://github.com/63days/63days.github.io/pull/2) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
+3. 💪 Opened PR [#1](https://github.com/63days/63days.github.io/pull/1) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
+4. 🗣 Commented on [#179](https://github.com/mitsuba-renderer/drjit/issues/179#issuecomment-1710114063) in [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit)
+5. 🗣 Commented on [#2](https://github.com/asztr/Neural-BRDF/issues/2#issuecomment-1698465862) in [asztr/Neural-BRDF](https://github.com/asztr/Neural-BRDF)
 <!--END_SECTION:activity-->
 
 
