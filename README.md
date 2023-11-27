@@ -48,10 +48,10 @@
   <li><b>Undergraduate Intern in KAIST Geometric AI Lab</b>
   <ul>
     <li>Advisor Professor : Minhyuk Sung</li>
-    <li>Jun. 2023 ~ Aug. 2023</li>
+    <li>Jun. 2023 ~ Current</li>
     <li>Topics
     <ul>
-      <li>To be added</li>
+      <li><a href="https://posterior-distillation-sampling.github.io/">Posterior Distiallation Sampling</a></li>
     </ul>
     </li>
   </ul>
