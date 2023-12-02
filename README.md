@@ -105,11 +105,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 29 November 2023
+From: 31 October 2023 - To: 30 November 2023
 
-Total Time: 7 hrs 8 mins
+Total Time: 7 hrs 18 mins
 
-C++            7 hrs 7 mins    █████████████████████████   99.77 %
+C++            7 hrs 17 mins   █████████████████████████   99.78 %
 Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Image (jpeg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
