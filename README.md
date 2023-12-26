@@ -6,7 +6,7 @@
 
 <h3>Chanho Park</h3>
 
-- 📫 How to reach me: chanho.park@dankook.ac.kr
+- 📫 How to reach me: charlieppark98@gmail.com or charlieppark@kaist.ac.kr
 - 💭 Devlog : https://charlieppark.kr/
 
 <h4>Education</h4>
