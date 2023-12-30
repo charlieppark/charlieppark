@@ -105,13 +105,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 27 December 2023
+From: 28 November 2023 - To: 28 December 2023
 
-Total Time: 6 hrs 57 mins
+Total Time: 2 hrs 41 mins
 
-C++            6 hrs 56 mins   █████████████████████████   99.77 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Image (jpeg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++   2 hrs 41 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
