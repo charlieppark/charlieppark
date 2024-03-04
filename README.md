@@ -105,12 +105,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 01 March 2024
+From: 01 February 2024 - To: 02 March 2024
 
-Total Time: 2 hrs 17 mins
+Total Time: 2 hrs 55 mins
 
-Python   1 hr 54 mins    ████████████████████▓░░░░   82.83 %
-Other    23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+Python   2 hrs 31 mins   █████████████████████▓░░░   86.11 %
+Other    24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
 ```
 
 <!--END_SECTION:waka-->
