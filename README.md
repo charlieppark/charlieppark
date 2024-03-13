@@ -105,12 +105,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 10 March 2024
+From: 10 February 2024 - To: 11 March 2024
 
-Total Time: 2 hrs 55 mins
+Total Time: 3 hrs 21 mins
 
-Python   2 hrs 31 mins   █████████████████████▓░░░   86.11 %
-Other    24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Python   2 hrs 31 mins   ██████████████████▓░░░░░░   75.18 %
+Other    49 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
 ```
 
 <!--END_SECTION:waka-->
