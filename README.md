@@ -105,14 +105,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 04 June 2024
+From: 06 May 2024 - To: 05 June 2024
 
-Total Time: 1 hr 34 mins
+Total Time: 1 hr 46 mins
 
-Python       1 hr 16 mins    ████████████████████▒░░░░   81.40 %
-Other        17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python       1 hr 16 mins    ██████████████████░░░░░░░   72.49 %
+Other        28 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
