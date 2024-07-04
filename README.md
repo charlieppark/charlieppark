@@ -47,7 +47,10 @@ Full-funded Scholarship & Academic Excellence for all semesters
     <li>Jun. 2023 ~ Current</li>
     <li>Topics
     <ul>
-      <li>Posterior Distiallation Sampling<br><a href="https://posterior-distillation-sampling.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2311.13831">Arxiv</a></li>
+      <li>Posterior Distiallation Sampling<br>
+        Juil Koo, <b>Chanho Park</b>, Minhyuk Sung<br>
+        <b>CVPR2024</b><br>
+        <a href="https://posterior-distillation-sampling.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2311.13831">Arxiv</a></li>
     </ul>
     </li>
   </ul>
