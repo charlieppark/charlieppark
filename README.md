@@ -11,7 +11,18 @@
 
 <h4>Education</h4>
 
-<b>BS in Mobile Systems Engineering, Dankook University, Yongin, Republic of Korea (2018.3~2023.8)</b>
+<b>M.S in Graduate School of Metaverse, KAIST (Korea Advanced Institute of Science and Technology), Daejeon, South Korea (Mar.2024 ~)</b>
+
+On leave of absence
+
+&nbsp;
+
+<b>BS in Mobile Systems Engineering, Dankook University, Yongin, South Korea (Mar.2018 ~ Aug.2023)</b>
+
+GPA 4.27 / 4.5 (Major GPA 4.28 / 4.5), Top Rank
+
+Full-funded Scholarship & Academic Excellence for all semesters
+
 
 &nbsp;
 
@@ -30,6 +41,20 @@
 <h4>Research Experience</h4>
 
 <ul>
+  <li><b>Undergraduate Intern in KAIST Visual AI Group</b>
+  <ul>
+    <li>Advisor Professor : Minhyuk Sung</li>
+    <li>Jun. 2023 ~ Current</li>
+    <li>Topics
+    <ul>
+      <li>Posterior Distiallation Sampling<br><a href="https://posterior-distillation-sampling.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2311.13831">Arxiv</a></li>
+    </ul>
+    </li>
+  </ul>
+  </li>
+</ul>
+&nbsp;
+<ul>
   <li><b>Undergraduate Intern in Dankook University C&I Lab</b>
   <ul>
     <li>Advisor Professor : Kyu-haeng Lee</li>
@@ -38,20 +63,6 @@
     <ul>
       <li>Spammer node classification on large twitter graph using GCN with signed network analysis</li>
       <li>Weekly Paper Reading Seminar (2023 Jan ~ Mar)] (https://github.com/charlieppark/seminar_presentations)</li>
-    </ul>
-    </li>
-  </ul>
-  </li>
-</ul>
-&nbsp;
-<ul>
-  <li><b>Undergraduate Intern in KAIST Geometric AI Lab</b>
-  <ul>
-    <li>Advisor Professor : Minhyuk Sung</li>
-    <li>Jun. 2023 ~ Current</li>
-    <li>Topics
-    <ul>
-      <li>Posterior Distiallation Sampling<br><a href="https://posterior-distillation-sampling.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2311.13831">Arxiv</a></li>
     </ul>
     </li>
   </ul>
@@ -70,31 +81,6 @@
 - Advanced to finals in <9th SW secure coding contest> of KISA as a backend developer
 
 &nbsp;
-  
-<h3>🔧 Tech Stack</h3>
-
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-: Able to implement models based on papers (ex. Diffusion Models)
-  
-&nbsp;
-
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-: Able to implement neural network and backpropagation using numpy
-  
-&nbsp;
-  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) / ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  
-: Able to create a full-stack prototype application / service
-  
-&nbsp;
-
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-: Preprocess large network using PageRank, signed network triads, etc. Class projects (Computer Architecture : MIPS simulator, Cache / Operating Systems : Shell, Multi-threading, Scheduler, Virtual Memory, File System, etc.) 
-&nbsp;
-
-: Graphics programming with IMGUI, DirectX11 
   
 &nbsp;
 
