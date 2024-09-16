@@ -94,7 +94,7 @@ Full-funded Scholarship & Academic Excellence for all semesters
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 13 September 2024
+From: 15 August 2024 - To: 14 September 2024
 
 Total Time: 11 mins
 
