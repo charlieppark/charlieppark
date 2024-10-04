@@ -94,13 +94,13 @@ Full-funded Scholarship & Academic Excellence for all semesters
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 01 October 2024
+From: 02 September 2024 - To: 02 October 2024
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 33 mins
 
-JavaScript   1 hr 1 min      █████████████████░░░░░░░░   67.92 %
-Other        24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
-Python       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JavaScript   1 hr 4 mins     █████████████████▒░░░░░░░   69.14 %
+Other        24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+Python       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
