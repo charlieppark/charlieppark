@@ -94,11 +94,18 @@ Full-funded Scholarship & Academic Excellence for all semesters
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2024 - To: 04 November 2024
+From: 06 October 2024 - To: 05 November 2024
 
-Total Time: 3 mins
+Total Time: 44 mins
 
-Python   3 mins          █████████████████████████   100.00 %
+RPMSpec      27 mins         ███████████████▓░░░░░░░░░   62.23 %
+Python       12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
+TOML         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
