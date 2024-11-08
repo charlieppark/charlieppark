@@ -94,18 +94,19 @@ Full-funded Scholarship & Academic Excellence for all semesters
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 05 November 2024
+From: 07 October 2024 - To: 06 November 2024
 
-Total Time: 44 mins
+Total Time: 1 hr 27 mins
 
-RPMSpec      27 mins         ███████████████▓░░░░░░░░░   62.23 %
-Python       12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
-TOML         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+RPMSpec      1 hr 7 mins     ███████████████████▒░░░░░   77.00 %
+Python       15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+TOML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
