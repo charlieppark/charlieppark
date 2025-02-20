@@ -119,7 +119,7 @@ No activity tracked
 &nbsp;
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/KAIST-Visual-AI-Group/PDS/pull/2) in [KAIST-Visual-AI-Group/PDS](https://github.com/KAIST-Visual-AI-Group/PDS)
+1. ❗ Opened issue [#3](https://github.com/damianomarsili/VADAR/issues/3) in [damianomarsili/VADAR](https://github.com/damianomarsili/VADAR)
 2. 💪 Opened PR [#6](https://github.com/63days/63days.github.io/pull/6) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
 3. 🎉 Merged PR [#5](https://github.com/63days/63days.github.io/pull/5) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
 4. 💪 Opened PR [#5](https://github.com/63days/63days.github.io/pull/5) in [63days/63days.github.io](https://github.com/63days/63days.github.io)
