@@ -28,5 +28,7 @@ Full-funded Scholarship & Academic Excellence for all semesters
     <a href="https://posterior-distillation-sampling.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2311.13831">Arxiv</a></li>
   <li>Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation<br>
     Phillip Y. Lee, Jihyeon Je, <b>Chanho Park</b>, Mikaela Angelina Uy, Leonidas Guibas, Minhyuk Sung<br>
-    <b>ICCV 2025</b><br></li>
+    <b>ICCV 2025</b><br>
+    <a href="https://apc-vlm.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2504.17207">Arxiv</a></li>
+
 </ul>
