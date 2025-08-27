@@ -26,4 +26,7 @@ Full-funded Scholarship & Academic Excellence for all semesters
     Juil Koo, <b>Chanho Park</b>, Minhyuk Sung<br>
     <b>CVPR 2024</b><br>
     <a href="https://posterior-distillation-sampling.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2311.13831">Arxiv</a></li>
+  <li>Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation<br>
+    Phillip Y. Lee, Jihyeon Je, <b>Chanho Park</b>, Mikaela Angelina Uy, Leonidas Guibas, Minhyuk Sung<br>
+    <b>ICCV 2025</b><br></li>
 </ul>
