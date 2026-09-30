@@ -22,6 +22,11 @@ Full-funded Scholarship & Academic Excellence for all semesters
 <h4>Publications</h4>
 
 <ul>
+  
+  <li>Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information<br>
+    <b>Chanho Park</b>, Daehyeon Choi, Jihyun Lee, Minhyuk Sung<br>
+    <b>NeurIPS 2026</b><br>
+    <a href="https://visual-retrieval-heads.github.io/">Project Page</a><br><a href="https://arxiv.org/abs/2608.27417">Arxiv</a></li>
 
   <li>Token Warping Helps MLLMs Look from Nearby Viewpoints<br>
     Phillip Y. Lee*, <b>Chanho Park</b>*, Mingue Park, Seungwoo Yoo, Juil Koo, Minhyuk Sung (* equal contributions)<br>
